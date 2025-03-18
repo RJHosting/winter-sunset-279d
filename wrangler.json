@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "winter-sunset-279d",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "77614775-bb90-40fc-ad5c-8f9c6a97bb50",
+      "database_name": "jolly-water-8a87-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
